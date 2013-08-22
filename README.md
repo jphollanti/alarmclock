@@ -1,4 +1,4 @@
-stopwatch
+alarmclock
 =========
 
-Stop watch, minimal implementation
+Alarm clock, minimal implementation
